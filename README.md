@@ -1,46 +1,16 @@
-# Getting Started with Create React App
+# Praça Camilo de Jesus Lima
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Localizada no Centro de Vitória da Conquista - Bahia, a praça Camilo de Jesus Lima (CEP 45000-715) possui um grande fluxo de pessoas na prestação de serviços e compras além de ser ponto para chegada e partida para cidades vizinhas, como Barra do Choça. A praça se encontra no cruzamento de três logradouros muito importantes **Av. Crescêncio Silveira**, **Rua Laudicéia Gusmão** e **Rua Lisboa**. Também possui proximidade com as praças **Amélia Antunes Luz Spósito** (localidada ao lado da Praça Camilo de Jesus Lima) e **Tancredo Neves** (Localidada no fim da Rua Lisboa).
+Um fato interessante é que quase todos moradores de Vitória da Conquista conhecem a praça e passam por ela constantemente, porém não conhecem o seu nome, e por isso estranham quando perguntam pela praça, ela é mais conhecida como "Praça da Floricultura" visto que existe um conjunto de floriculturas no centro da praça.
+Atualmente nem a localização da praça nem o seu CEP, 45000-715 aparecem nos registros do [Google Maps](https://goo.gl/maps/QqeubmJ81qX84Fqr6), por esta razão foi criado esse site para ajudar entregadores e transportadores localizarem a praça.
 
-## Available Scripts
+Segue abaixo algumas informações sobre o CEP da praça e adjecentes:
 
-In the project directory, you can run:
+| Praça Camilo de Jesus Lima | 45000-715 | 
+|---|---|
+| Rua lisboa | 45000-580 |
+| Rua Laodiceia Gusmão | 45000- 555|
+| Praça Amélia Antunes Luz Spósito | 45000-190 |
+| Avenida Crescêncio Silveira | 45000-190 |
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Esse projeto foi desenvolvido por [Filipe Câncio](http://cancio.dev) com [Create React App](https://github.com/facebook/create-react-app).
