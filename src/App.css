@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -7,25 +7,30 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
+.App-content {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
 }
+.App-content div {
+  max-width: 1000px;
+}
 
-.App-link {
+.App-content a {
+  text-decoration: none;
   color: #61dafb;
+}
+
+.App-iframe{
+  margin-top: 50px;
+  width: 100%;
+  height: 300px;
+  border: none;
+  border-radius: 10px;
 }
 
 @keyframes App-logo-spin {
