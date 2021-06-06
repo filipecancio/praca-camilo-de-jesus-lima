@@ -1,15 +1,22 @@
 
 import styled from "styled-components"
+import {_ubuh1,_ubutext} from '../../../Styles/generic/Typography';
+
 
 export const Container = styled.div`
     text-align: left;
-    background-color: #282c34;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: white;
+    padding: 10px;
+
+    p{
+      ${_ubutext}
+        margin: 10px 0;
+        line-height: 1.5;
+    }
 `
 
 export const Content = styled.section`
@@ -30,8 +37,16 @@ export const Map = styled.iframe`
 
 `
 
-export const Table = styled.table``
+export const Title = styled.h1`
+  ${_ubuh1}
+  margin: 10px 0;
+`
+
+export const Table = styled.table`
+`
 
 export const Row = styled.tr``
 
-export const Column = styled.td``
+export const Column = styled.td`
+  padding: 3px 5px;
+`
